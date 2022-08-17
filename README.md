@@ -1,5 +1,5 @@
 # Logistic-Regression-on-Iris-data
-In this Jupyter notebook I have perdicted Irirs flower's species by using Logistic Regression.
+In this Jupyter notebook I have predicted Irirs flower's species by using Logistic Regression.
 
 Iris plants dataset
 --------------------
